@@ -1,0 +1,7 @@
+{
+  "mangle": {
+    "reserved": [
+      "BitverseWeb3Provider"
+    ]
+  }
+}
